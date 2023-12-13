@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\WebIntentoPresentacion.exe
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\WebIntentoPresentacion.dll
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\WebIntentoPresentacion.deps.json
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\WebIntentoPresentacion.runtimeconfig.json
+C:\Users\usuario\Desktop\Portafolio\WebIntentoPresentacion\obj\Release\net6.0\PubTmp\Out\WebIntentoPresentacion.pdb
