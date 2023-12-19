@@ -119,6 +119,7 @@
     }
 }
 
+
 @media (max-width:768px) {
     .proyectos {
         padding-right: 10rem;
@@ -162,10 +163,24 @@
     width: 29rem;
 }
 
-/*------------------------------------------------------BARRA  DE NAVEGACION-----------------------------------------*/
+@media (max-width:575px) {
 
-.barra_navegacion a{
-    padding:0.6rem;
+    .tarjeta_trabajo{
+        padding:3rem;
+    }
+}
+
+@media (min-width:576px) {
+
+    .tarjeta_trabajo {
+        padding: 3rem;
+    }
+}
+
+
+/*------------------------------------------------------BARRA  DE NAVEGACION-----------------------------------------*/
+.barra_navegacion a {
+    padding: 0.6rem;
 }
 
 /*---------------------------------------------------- CONTACTO ---------------------------------------------------------------------------*/
